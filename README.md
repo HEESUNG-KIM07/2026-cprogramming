@@ -46,6 +46,7 @@
 구성해 나가야 한다고 생각하기에 아직은 1학년 이지만, 결국은 시간을 빠르고 기다려주지 않기 때문에
 앞으로 더 열심히 내 전공을 공부하고 갈고 닦아야 한다고 생각한다.
 
-## 8. 참고 글
+## 8. 참고 문헌(글) + LLM(Gemini)
 https://m.blog.naver.com/lime94/220916520534
 
+<img width="970" height="635" alt="image" src="https://github.com/user-attachments/assets/3cc71268-789d-4c4d-b0c7-ca8e0f3c2d2c" />
