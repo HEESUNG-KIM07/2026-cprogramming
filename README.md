@@ -36,7 +36,7 @@
 입력 버퍼 비우기 (clear_buffer): scanf 뒤에 남은 문자를 clear_buffer로 지워 입력 꼬임을 막음
 
 ## 5. 프로그램 동작과 결과
-![실행 화면] (images/실행화면3.png)
+<img width="413" height="124" alt="실행화면3" src="https://github.com/user-attachments/assets/2799c3f6-aaec-4a95-843a-5ccb374a8515" />
 
 ## 6. 결과 분석 및 토의
 동적결과는 정상이므로, 원한 결과도 잘 나왔다.
